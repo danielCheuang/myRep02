@@ -9,7 +9,7 @@ public class Test1 {
 
 	@Test
 	public void test() {
-		Person p = new Person("002", "daniel");
+		Person p = new Person("002", "daniel...");
 		
 		System.out.println(p);
 	}
